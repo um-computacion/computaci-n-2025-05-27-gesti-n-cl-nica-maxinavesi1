@@ -6,7 +6,7 @@
 ### 📋 Datos Personales
 - **Nombre y Apellido**: [Máximo Navesi]
 - **Ciclo Lectivo**: 2025
-- **Carrera**: [Completar con nombre de la carrera]
+- **Carrera**: [Ingenieria en Informatica]
 
 ## ⏰ Información Importante sobre la Entrega
 
