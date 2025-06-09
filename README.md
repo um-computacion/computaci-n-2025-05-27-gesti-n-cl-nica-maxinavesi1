@@ -4,7 +4,7 @@
 ## 👤 Información del Alumno
 
 ### 📋 Datos Personales
-- **Nombre y Apellido**: [Completar con nombre y apellido]
+- **Nombre y Apellido**: [Máximo Navesi]
 - **Ciclo Lectivo**: 2025
 - **Carrera**: [Completar con nombre de la carrera]
 
